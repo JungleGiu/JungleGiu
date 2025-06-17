@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Giu Eminente
 - I'm a Junior Front-end Developer in progress
 - Fluent in JavaScript, React, Node.js, Mongo, moongoose, HTML, CSS
-- Also English, Spanish, Italian (mothertongue)
+- Also English, Spanish, Italian (native)
 - Student at IT Academy-Barcelona Activa
 - Student in NUCLIO Digital School Full Stack Developer Master 
 - Looking forward to collaborate on new projects to expand my portfolio
