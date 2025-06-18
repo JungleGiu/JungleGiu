@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Giú Eminente, I go by they/them pronouns 🏳️‍🌈🏳️‍⚧️<br>
-💻I'm a Junior Front-end Developer in progress <br>
-⌨️Fluent in JavaScript,HTML, CSS React, Node.js, Mongo, moongoose <br>
-🇮🇹🇬🇧🇪🇸Also English, Spanish, Italian (native) <br>
-🧑🏼‍🎓Student at IT Academy - Barcelona Activa Front-End Bootcamp
--  & Student at NUCLIO Digital School for Full Stack Developer Master degree <br>
- Looking forward to collaborate on new projects to expand my portfolio
+-💻I'm a Junior Front-end Developer in progress <br>
+-⌨️Fluent in JavaScript,HTML, CSS React, Node.js, Mongo, moongoose <br>
+-🇮🇹🇬🇧🇪🇸Also English, Spanish, Italian (native) <br>
+-🧑🏼‍🎓Student at IT Academy - Barcelona Activa Front-End Bootcamp <br>
+ & Student at NUCLIO Digital School for Full Stack Developer Master degree <br>
+- ✨Looking forward to collaborate on new projects to expand my portfolio
 
 
 
