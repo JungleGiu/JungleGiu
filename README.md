@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Giu Eminente
+- 👋 Hi, I’m Giú Eminente
 - I'm a Junior Front-end Developer in progress
 - Fluent in JavaScript, React, Node.js, Mongo, moongoose, HTML, CSS
 - Also English, Spanish, Italian (native)
