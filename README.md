@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Giú Eminente, I go by they/them pronouns 🏳️‍🌈🏳️‍⚧️<br>
-- 💻I'm a Junior Front-end Developer in progress <br>
+- 💻I'm a Junior Front-end Developer <br>
 - ⌨️Fluent in JavaScript,HTML, CSS React, Node.js, Mongo, moongoose <br>
 - 🇮🇹🇬🇧🇪🇸Also English, Spanish, Italian (native) <br>
 - 🧑🏼‍🎓Student at IT Academy - Barcelona Activa Front-End Bootcamp <br>
